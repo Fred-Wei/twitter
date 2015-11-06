@@ -14,7 +14,7 @@ import copy
 import os
 from psycopg2.extensions import register_adapter
 from psycopg2.extras import Json
-
+import sys
 
 
 class twitter_dump():
